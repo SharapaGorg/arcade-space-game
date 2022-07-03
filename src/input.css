@@ -1,0 +1,12 @@
+.star-ship {
+  transition : all 100ms ease;
+  position : fixed;
+  bottom : 0px;
+  height : 200px;
+  width : 200px
+}
+
+.star-ship img {
+  height : 200px;
+  width : 200px
+}

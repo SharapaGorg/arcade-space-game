@@ -1,0 +1,8 @@
+.star-ship {
+    transition : all 100ms ease;
+    @apply w-[200px] h-[200px] fixed bottom-0
+}
+
+.star-ship img {
+    @apply w-[200px] h-[200px]
+}
